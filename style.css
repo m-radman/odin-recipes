@@ -1,0 +1,43 @@
+body {
+    background-color: paleturquoise;
+}
+
+.back {
+    background-color: beige;
+    width: 550px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: "Monaco", "Courier New", monospace;
+    font-size: 55px;
+}
+
+.recipes {
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    font-size: 30px;
+}
+
+.image {
+    width: 500px;
+    border-radius: 5%;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.img-back {
+    background-color:beige ;
+    margin-left: 40px;
+    padding: 15px;
+    width: 550px;
+}
+
+.menu {
+    margin-left: 45px;
+    padding: 15px;
+}
